@@ -1,4 +1,4 @@
-package threading;
+package multithreading;
 public class app {
 
 public static void main(String[] args) throws InterruptedException {
